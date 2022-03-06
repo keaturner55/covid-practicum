@@ -6,8 +6,6 @@ This document provides an outline for the entire project as well as the final an
 
 
 
-
-
 ```python
 import pandas as pd
 from glob import glob
@@ -190,7 +188,7 @@ plt.show()
 ```
 
 
-![png](output_16_0.png)
+![png](md_images/output_16_0.png)
 
 
 ## Trim down to self-reporting symptoms
@@ -403,7 +401,7 @@ plt.show()
 ```
 
 
-![png](output_23_0.png)
+![png](md_images/output_23_0.png)
 
 
 
@@ -525,7 +523,7 @@ plt.show()
 ```
 
 
-![png](output_27_0.png)
+![png](md_images/output_27_0.png)
 
 
 ## Trim down to self-reporting positive diagnosis
@@ -673,7 +671,7 @@ plt.show()
 ```
 
 
-![png](output_33_0.png)
+![png](md_images/output_33_0.png)
 
 
 
@@ -709,7 +707,7 @@ plt.show()
 ```
 
 
-![png](output_36_0.png)
+![png](md_images/output_36_0.png)
 
 
 
@@ -763,7 +761,7 @@ plt.show()
 ```
 
 
-![png](output_38_0.png)
+![png](md_images/output_38_0.png)
 
 
 
